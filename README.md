@@ -1,54 +1,44 @@
 # Monssif Zhairi
 
-> Developer building at the intersection of Web, AI, Cybersecurity and interactive experiences.
+I'm **Monssif Zhairi**, a developer from Morocco interested in web development, AI, cybersecurity, and computer science.
 
-I'm **Monssif Zhairi**, a developer and technology learner from Morocco. I like turning ideas into working software, exploring new technologies, and understanding how systems work under the hood.
+I build things to understand how they work. Most of the projects here come from what I'm learning, experimenting with, or trying to build into something useful.
 
-## What I Build
+## What I'm working on
 
-- 🌐 Modern web applications
-- 🎨 Interactive 3D / WebGL experiences
-- 🤖 AI-powered tools and experiments
-- 🔐 Cybersecurity learning projects
-- 🧩 Developer tools and technical experiments
+- Web applications and interactive interfaces
+- 3D and WebGL experiments
+- Python and programming fundamentals
+- Networking and cybersecurity
+- AI experiments
+- Mathematics and logic
 
-## Tech
+## Selected projects
 
-**Languages**
-Python · JavaScript · Dart · HTML · CSS
+### MR-CHESS
+A chess engine written in Dart. It handles legal moves, castling, en passant, promotion, and draw conditions.
 
-**Web**
-React · Vite · Node.js · Three.js · React Three Fiber
+### MONSSIF FIT
+A fitness web application built with React and Supabase, including authentication, profiles, workouts, and database security rules.
 
-**Tools & Systems**
-Git · GitHub · Linux · Supabase
+### NIKE D-LINE
+An interactive 3D product experience built for the web, focused on WebGL and product presentation.
 
-## Featured Projects
+## Technologies
 
-### ♟️ MR-CHESS
-A Dart chess engine focused on implementing chess rules such as legal moves, castling, en passant, promotion and draw detection.
+Python · JavaScript · Dart · React · Vite · Node.js · Three.js · React Three Fiber · Supabase · Git · Linux
 
-### 💪 MONSSIF FIT
-A fitness web application built around authentication, profiles, workouts and Supabase security features such as Row Level Security.
+## Currently learning
 
-### 🧊 NIKE D-LINE
-An interactive 3D product experience exploring WebGL, product presentation and immersive web interfaces.
+Python, networking, cybersecurity, AI, cloud computing, mathematics, and logic.
 
-## Currently Learning
+## Links
 
-Python · Networking · Cybersecurity · Artificial Intelligence · Cloud Computing · Mathematics & Logic
+- Website: https://monssif.xo.je
+- GitHub: https://github.com/monssifzhairi
 
-## Philosophy
-
-> **Build → Learn → Experiment → Improve**
-
-I don't just learn technology. **I build with it.**
-
-## Connect
-
-🌐 **Website:** https://monssif.xo.je  
-🐙 **GitHub:** https://github.com/monssifzhairi
+This profile is where I keep some of the projects, experiments, and things I learn as I continue developing.
 
 ---
 
-*This profile documents my learning journey, experiments and projects as I grow as a developer.*
+**Monssif Zhairi**
